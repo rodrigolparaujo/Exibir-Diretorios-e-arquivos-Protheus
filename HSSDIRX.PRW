@@ -1,6 +1,6 @@
 #INCLUDE "PROTHEUS.CH"
 /*/{Protheus.doc} HSSDIRX
-Substitui a função HS_EDISDIR que foi descontinuada na versão 2310
+Substitui a função HS_EDISDIR
 @type function
 @version  1.0
 @author admroar
